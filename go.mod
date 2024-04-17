@@ -1,6 +1,6 @@
 module github.com/kumina/postfix_exporter
 
-go 1.16
+go 1.21
 
 require (
 	github.com/Microsoft/go-winio v0.5.0 // indirect
